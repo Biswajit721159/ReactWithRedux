@@ -1,0 +1,18 @@
+
+.maindiv{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    flex-wrap:wrap;
+}
+
+.catagory{
+    border: 0px solid orange;
+    border-radius: 10px;
+    margin-left: 20;
+    text-decoration: none;
+}
+.buttondata{
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
